@@ -28,6 +28,7 @@ I have architected a 20-section blueprint that solves the most complex synchroni
 *Mathematical equations and logic flow diagrams are blurred to protect intellectual property.*
 
 ![Mathematical Proof](IMG_20260319_231648.jpg)
+
 ## 🤝 Seeking Partners & Mentors
 I am an architect looking for **Low-Level Systems Engineers (C/Rust)** and **Deep-Tech Mentors** to build the first global hardware-software prototype.
 
